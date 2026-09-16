@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-16T04:41:34.026076+00:00",
+  "updated_at": "2026-09-16T11:24:54.033419+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -46,13 +46,6 @@
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published homepage cash price"
-    },
-    {
       "name": "Dime Oil",
       "url": "https://www.dimeoilco.com/",
       "price_per_gallon": 5.749,
@@ -72,6 +65,13 @@
       "price_per_gallon": 5.79,
       "total_for_100_gallons": 579.0,
       "note": "Published 100-gallon homepage price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.89,
+      "total_for_100_gallons": 589.0,
+      "note": "Published homepage cash price"
     },
     {
       "name": "Curtiss Oil",
