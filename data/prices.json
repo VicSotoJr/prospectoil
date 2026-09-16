@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-16T11:24:54.033419+00:00",
+  "updated_at": "2026-09-16T16:46:01.358523+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -13,29 +13,22 @@
     {
       "name": "Incredible Oil & Propane",
       "url": "https://www.incredibleoil.com/home-heating-oil/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "IT Energy",
+      "url": "https://itenergyllc.com/",
+      "price_per_gallon": 5.65,
+      "total_for_100_gallons": 565.0,
+      "note": "Published homepage price; 100-gallon minimum"
     },
     {
       "name": "Anytime Oil",
       "url": "https://anytime-oil.com/get-price/",
       "price_per_gallon": 5.68,
       "total_for_100_gallons": 568.0,
-      "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Phillips Oil & Propane",
-      "url": "https://phillipsoilllc.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published 100-gallon price"
-    },
-    {
-      "name": "Right Energy",
-      "url": "https://www.rightenergyct.com/get-price/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
@@ -53,11 +46,18 @@
       "note": "Published 150+ gallon homepage price"
     },
     {
-      "name": "IT Energy",
-      "url": "https://itenergyllc.com/",
+      "name": "Phillips Oil & Propane",
+      "url": "https://phillipsoilllc.com/",
       "price_per_gallon": 5.75,
       "total_for_100_gallons": 575.0,
-      "note": "Published homepage price; 100-gallon minimum"
+      "note": "Published 100-gallon price"
+    },
+    {
+      "name": "Right Energy",
+      "url": "https://www.rightenergyct.com/get-price/",
+      "price_per_gallon": 5.75,
+      "total_for_100_gallons": 575.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Easy Oil CT",
@@ -81,6 +81,13 @@
       "note": "ZIP-specific 100+ gallon price"
     },
     {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 451.5,
+      "total_for_100_gallons": 45150.0,
+      "note": "Published 100+ gallon homepage price"
+    },
+    {
       "name": "Bethany Fuel",
       "url": "https://www.bethanyfuel.com/",
       "price_per_gallon": null,
@@ -93,13 +100,6 @@
       "price_per_gallon": null,
       "total_for_100_gallons": null,
       "note": "GG Oil CT quote failed: RuntimeError: GG Oil CT ZIP input not found"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: RuntimeError: Could not find Omni Energy homepage price"
     },
     {
       "name": "Purple Fuels",
