@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-17T11:34:01.131223+00:00",
+  "updated_at": "2026-09-17T16:52:37.200421+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -16,6 +16,13 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "IT Energy",
+      "url": "https://itenergyllc.com/",
+      "price_per_gallon": 5.65,
+      "total_for_100_gallons": 565.0,
+      "note": "Published homepage price; 100-gallon minimum"
     },
     {
       "name": "Anytime Oil",
@@ -100,13 +107,6 @@
       "price_per_gallon": null,
       "total_for_100_gallons": null,
       "note": "Update failed: RuntimeError: Could not find Purple Fuels 100-299 gallon homepage price"
-    },
-    {
-      "name": "IT Energy",
-      "url": "https://itenergyllc.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: ConnectTimeout: HTTPSConnectionPool(host='itenergyllc.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='itenergyllc.com', port=443) at 0x7fea3a4e7740>, 'Connection to itenergyllc.com timed out. (connect timeout=3"
     }
   ]
 }
