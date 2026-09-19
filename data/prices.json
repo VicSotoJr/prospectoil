@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-18T20:51:33.275138+00:00",
+  "updated_at": "2026-09-19T04:29:25.441427+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -46,6 +46,13 @@
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
+      "name": "Phillips Oil & Propane",
+      "url": "https://phillipsoilllc.com/",
+      "price_per_gallon": 5.69,
+      "total_for_100_gallons": 569.0,
+      "note": "Published 100-gallon price"
+    },
+    {
       "name": "FJ Boil",
       "url": "https://www.fjboil.com/get-price/",
       "price_per_gallon": 5.69,
@@ -58,13 +65,6 @@
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
       "note": "Published 100-gallon homepage price"
-    },
-    {
-      "name": "Phillips Oil & Propane",
-      "url": "https://phillipsoilllc.com/",
-      "price_per_gallon": 5.75,
-      "total_for_100_gallons": 575.0,
-      "note": "Published 100-gallon price"
     },
     {
       "name": "Right Energy",
