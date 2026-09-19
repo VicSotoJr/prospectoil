@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-19T15:50:17.784379+00:00",
+  "updated_at": "2026-09-19T20:33:01.747569+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -16,6 +16,13 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Federal Oil",
@@ -53,13 +60,6 @@
       "note": "Published 100-gallon price"
     },
     {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.69,
@@ -69,8 +69,8 @@
     {
       "name": "Curtiss Oil",
       "url": "https://curtissoil.com/get-price/",
-      "price_per_gallon": 5.999,
-      "total_for_100_gallons": 599.9,
+      "price_per_gallon": 5.699,
+      "total_for_100_gallons": 569.9,
       "note": "ZIP-specific 100+ gallon price"
     },
     {
