@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-20T15:59:36.005785+00:00",
+  "updated_at": "2026-09-20T16:05:40.439753+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -20,6 +20,13 @@
     {
       "name": "FJ Boil",
       "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "ZIP-specific 100-299 gallon price"
@@ -53,6 +60,13 @@
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
+      "name": "Purple Fuels",
+      "url": "https://www.purplefuels.com/heating-oil/pricing",
+      "price_per_gallon": 5.68,
+      "total_for_100_gallons": 568.0,
+      "note": "Published 100-299 gallon price"
+    },
+    {
       "name": "Phillips Oil & Propane",
       "url": "https://phillipsoilllc.com/",
       "price_per_gallon": 5.69,
@@ -60,11 +74,25 @@
       "note": "Published 100-gallon price"
     },
     {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 5.69,
+      "total_for_100_gallons": 569.0,
+      "note": "Published 100-299 gallon homepage price"
+    },
+    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
-      "note": "Published 100-gallon homepage price"
+      "note": "Published 100-gallon minimum homepage price"
+    },
+    {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 5.69,
+      "total_for_100_gallons": 569.0,
+      "note": "Published per-gallon homepage price"
     },
     {
       "name": "Curtiss Oil",
@@ -74,39 +102,11 @@
       "note": "ZIP-specific 100+ gallon price"
     },
     {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 438.0,
-      "total_for_100_gallons": 43800.0,
-      "note": "Published 100+ gallon homepage price"
-    },
-    {
       "name": "Right Energy",
       "url": "https://www.rightenergyct.com/get-price/",
       "price_per_gallon": null,
       "total_for_100_gallons": null,
       "note": "Right Energy quote failed: RuntimeError: Right Energy ZIP input not found"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Bethany Fuel quote failed: RuntimeError: Bethany Fuel ZIP input not found"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://www.ggoilct.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "GG Oil CT quote failed: RuntimeError: GG Oil CT ZIP input not found"
-    },
-    {
-      "name": "Purple Fuels",
-      "url": "https://www.purplefuels.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: RuntimeError: Could not find Purple Fuels 100-299 gallon homepage price"
     }
   ]
 }
