@@ -1,13 +1,13 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-22T04:43:19.990662+00:00",
+  "updated_at": "2026-09-22T11:27:56.077567+00:00",
   "sources": [
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.39,
-      "total_for_100_gallons": 539.0,
+      "price_per_gallon": 5.29,
+      "total_for_100_gallons": 529.0,
       "note": "Published homepage cash price"
     },
     {
@@ -44,6 +44,13 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "Easy Oil CT",
+      "url": "https://www.easyoilct.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published 100-gallon minimum homepage price"
     },
     {
       "name": "GG Oil CT",
@@ -86,13 +93,6 @@
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
       "note": "Published 100-299 gallon homepage price"
-    },
-    {
-      "name": "Easy Oil CT",
-      "url": "https://www.easyoilct.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published 100-gallon minimum homepage price"
     },
     {
       "name": "Curtiss Oil",
