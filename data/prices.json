@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-22T11:27:56.077567+00:00",
+  "updated_at": "2026-09-22T16:50:39.077866+00:00",
   "sources": [
     {
       "name": "Federal Oil",
@@ -13,8 +13,8 @@
     {
       "name": "First Fuel Oil",
       "url": "https://www.firstfueloil.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
       "note": "Published 100-299 gallon price"
     },
     {
@@ -88,13 +88,6 @@
       "note": "Published 100-gallon price"
     },
     {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published 100-299 gallon homepage price"
-    },
-    {
       "name": "Curtiss Oil",
       "url": "https://curtissoil.com/get-price/",
       "price_per_gallon": 5.699,
@@ -107,6 +100,13 @@
       "price_per_gallon": null,
       "total_for_100_gallons": null,
       "note": "Right Energy quote failed: RuntimeError: Right Energy ZIP input not found"
+    },
+    {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": null,
+      "total_for_100_gallons": null,
+      "note": "Update failed: HTTPError: 403 Client Error: Forbidden for url: https://www.bethanyfuel.com/"
     }
   ]
 }
