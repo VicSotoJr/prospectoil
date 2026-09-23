@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-22T21:14:30.849424+00:00",
+  "updated_at": "2026-09-23T04:38:12.442412+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -18,6 +18,20 @@
       "note": "Published homepage cash price"
     },
     {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.54,
+      "total_for_100_gallons": 554.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 5.54,
+      "total_for_100_gallons": 554.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
       "name": "Dime Oil",
       "url": "https://www.dimeoilco.com/",
       "price_per_gallon": 5.559,
@@ -30,6 +44,13 @@
       "price_per_gallon": 5.58,
       "total_for_100_gallons": 558.0,
       "note": "ZIP-specific 100-149 gallon price"
+    },
+    {
+      "name": "Phillips Oil & Propane",
+      "url": "https://phillipsoilllc.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published 100-gallon price"
     },
     {
       "name": "Incredible Oil & Propane",
@@ -46,25 +67,11 @@
       "note": "Published 100-299 gallon homepage price"
     },
     {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Omni Energy",
@@ -86,13 +93,6 @@
       "price_per_gallon": 5.68,
       "total_for_100_gallons": 568.0,
       "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Phillips Oil & Propane",
-      "url": "https://phillipsoilllc.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published 100-gallon price"
     },
     {
       "name": "Curtiss Oil",
