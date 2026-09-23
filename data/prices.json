@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-23T16:48:44.325678+00:00",
+  "updated_at": "2026-09-23T21:27:51.723332+00:00",
   "sources": [
     {
       "name": "Federal Oil",
@@ -25,11 +25,25 @@
       "note": "Published 100-299 gallon price"
     },
     {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published 100-gallon minimum homepage price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Omni Energy",
@@ -39,25 +53,18 @@
       "note": "Published per-gallon homepage price"
     },
     {
+      "name": "Curtiss Oil",
+      "url": "https://curtissoil.com/get-price/",
+      "price_per_gallon": 5.499,
+      "total_for_100_gallons": 549.9,
+      "note": "ZIP-specific 100+ gallon price"
+    },
+    {
       "name": "Anytime Oil",
       "url": "https://anytime-oil.com/get-price/",
       "price_per_gallon": 5.53,
       "total_for_100_gallons": 553.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.54,
-      "total_for_100_gallons": 554.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.54,
-      "total_for_100_gallons": 554.0,
-      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Dime Oil",
@@ -93,13 +100,6 @@
       "price_per_gallon": 5.65,
       "total_for_100_gallons": 565.0,
       "note": "Published homepage price; 100-gallon minimum"
-    },
-    {
-      "name": "Curtiss Oil",
-      "url": "https://curtissoil.com/get-price/",
-      "price_per_gallon": 5.699,
-      "total_for_100_gallons": 569.9,
-      "note": "ZIP-specific 100+ gallon price"
     },
     {
       "name": "Right Energy",
