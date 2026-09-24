@@ -1,21 +1,21 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-24T04:37:04.853584+00:00",
+  "updated_at": "2026-09-24T11:37:53.810018+00:00",
   "sources": [
-    {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.29,
-      "total_for_100_gallons": 529.0,
-      "note": "Published homepage cash price"
-    },
     {
       "name": "First Fuel Oil",
       "url": "https://www.firstfueloil.com/",
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published homepage cash price"
     },
     {
       "name": "Purple Fuels",
