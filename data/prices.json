@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-24T17:04:21.864441+00:00",
+  "updated_at": "2026-09-24T21:28:31.813755+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -16,13 +16,6 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Easy Oil CT",
-      "url": "https://www.easyoilct.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "Published 100-gallon minimum homepage price"
     },
     {
       "name": "Curtiss Oil",
@@ -100,6 +93,13 @@
       "price_per_gallon": 5.68,
       "total_for_100_gallons": 568.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Easy Oil CT",
+      "url": "https://www.easyoilct.com/",
+      "price_per_gallon": 5.69,
+      "total_for_100_gallons": 569.0,
+      "note": "Published 100-gallon minimum homepage price"
     },
     {
       "name": "Right Energy",
