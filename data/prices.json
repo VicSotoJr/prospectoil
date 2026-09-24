@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-24T11:37:53.810018+00:00",
+  "updated_at": "2026-09-24T17:04:21.864441+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -11,25 +11,11 @@
       "note": "Published 100-299 gallon price"
     },
     {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.39,
-      "total_for_100_gallons": 539.0,
-      "note": "Published homepage cash price"
-    },
-    {
-      "name": "Purple Fuels",
-      "url": "https://www.purplefuels.com/heating-oil/pricing",
-      "price_per_gallon": 5.48,
-      "total_for_100_gallons": 548.0,
-      "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
+      "name": "Incredible Oil & Propane",
+      "url": "https://www.incredibleoil.com/home-heating-oil/",
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
-      "note": "ZIP-specific 100-299 gallon price"
+      "note": "Published 100-299 gallon price"
     },
     {
       "name": "Easy Oil CT",
@@ -39,32 +25,11 @@
       "note": "Published 100-gallon minimum homepage price"
     },
     {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "Published per-gallon homepage price"
-    },
-    {
       "name": "Curtiss Oil",
       "url": "https://curtissoil.com/get-price/",
       "price_per_gallon": 5.499,
       "total_for_100_gallons": 549.9,
       "note": "ZIP-specific 100+ gallon price"
-    },
-    {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 5.53,
-      "total_for_100_gallons": 553.0,
-      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Dime Oil",
@@ -81,11 +46,11 @@
       "note": "Published 100-gallon price"
     },
     {
-      "name": "Incredible Oil & Propane",
-      "url": "https://www.incredibleoil.com/home-heating-oil/",
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
-      "note": "Published 100-299 gallon price"
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Bethany Fuel",
@@ -95,11 +60,46 @@
       "note": "Published 100-299 gallon homepage price"
     },
     {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published per-gallon homepage price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published homepage cash price"
+    },
+    {
       "name": "IT Energy",
       "url": "https://itenergyllc.com/",
       "price_per_gallon": 5.65,
       "total_for_100_gallons": 565.0,
       "note": "Published homepage price; 100-gallon minimum"
+    },
+    {
+      "name": "Purple Fuels",
+      "url": "https://www.purplefuels.com/heating-oil/pricing",
+      "price_per_gallon": 5.68,
+      "total_for_100_gallons": 568.0,
+      "note": "Published 100-299 gallon price"
     },
     {
       "name": "Right Energy",
