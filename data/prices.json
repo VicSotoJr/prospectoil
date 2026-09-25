@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-24T21:28:31.813755+00:00",
+  "updated_at": "2026-09-25T04:46:51.344881+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -16,6 +16,20 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Easy Oil CT",
+      "url": "https://www.easyoilct.com/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "Published 100-gallon minimum homepage price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "Published homepage cash price"
     },
     {
       "name": "Curtiss Oil",
@@ -74,13 +88,6 @@
       "note": "Published per-gallon homepage price"
     },
     {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published homepage cash price"
-    },
-    {
       "name": "IT Energy",
       "url": "https://itenergyllc.com/",
       "price_per_gallon": 5.65,
@@ -93,13 +100,6 @@
       "price_per_gallon": 5.68,
       "total_for_100_gallons": 568.0,
       "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Easy Oil CT",
-      "url": "https://www.easyoilct.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published 100-gallon minimum homepage price"
     },
     {
       "name": "Right Energy",
