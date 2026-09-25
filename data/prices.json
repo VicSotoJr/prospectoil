@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-25T04:46:51.344881+00:00",
+  "updated_at": "2026-09-25T11:45:00.789935+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -9,6 +9,13 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Dime Oil",
+      "url": "https://www.dimeoilco.com/",
+      "price_per_gallon": 5.399,
+      "total_for_100_gallons": 539.9,
+      "note": "Published 150+ gallon homepage price"
     },
     {
       "name": "Incredible Oil & Propane",
@@ -37,13 +44,6 @@
       "price_per_gallon": 5.499,
       "total_for_100_gallons": 549.9,
       "note": "ZIP-specific 100+ gallon price"
-    },
-    {
-      "name": "Dime Oil",
-      "url": "https://www.dimeoilco.com/",
-      "price_per_gallon": 5.559,
-      "total_for_100_gallons": 555.9,
-      "note": "Published 150+ gallon homepage price"
     },
     {
       "name": "Phillips Oil & Propane",
