@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-25T11:45:00.789935+00:00",
+  "updated_at": "2026-09-25T17:05:51.259599+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -9,6 +9,13 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published per-gallon homepage price"
     },
     {
       "name": "Dime Oil",
@@ -25,11 +32,25 @@
       "note": "Published 100-299 gallon price"
     },
     {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published 100-gallon minimum homepage price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Federal Oil",
@@ -65,27 +86,6 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-299 gallon homepage price"
-    },
-    {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published per-gallon homepage price"
     },
     {
       "name": "IT Energy",
