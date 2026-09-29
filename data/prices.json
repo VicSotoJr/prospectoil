@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-29T05:36:17.734413+00:00",
+  "updated_at": "2026-09-29T12:42:06.195692+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -23,6 +23,13 @@
       "price_per_gallon": 5.489,
       "total_for_100_gallons": 548.9,
       "note": "Published 150+ gallon homepage price"
+    },
+    {
+      "name": "Phillips Oil & Propane",
+      "url": "https://phillipsoilllc.com/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "Published 100-gallon price"
     },
     {
       "name": "Incredible Oil & Propane",
@@ -79,13 +86,6 @@
       "price_per_gallon": 5.58,
       "total_for_100_gallons": 558.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Phillips Oil & Propane",
-      "url": "https://phillipsoilllc.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published 100-gallon price"
     },
     {
       "name": "Curtiss Oil",
