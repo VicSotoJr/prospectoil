@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-29T12:42:06.195692+00:00",
+  "updated_at": "2026-09-29T22:12:16.801878+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -9,6 +9,13 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
+      "price_per_gallon": 5.48,
+      "total_for_100_gallons": 548.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Purple Fuels",
@@ -79,13 +86,6 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published homepage cash price"
-    },
-    {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 5.58,
-      "total_for_100_gallons": 558.0,
-      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Curtiss Oil",
