@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-09-28T23:13:28.871869+00:00",
+  "updated_at": "2026-09-29T05:36:17.734413+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -67,6 +67,13 @@
       "note": "Published per-gallon homepage price"
     },
     {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "Published homepage cash price"
+    },
+    {
       "name": "Anytime Oil",
       "url": "https://anytime-oil.com/get-price/",
       "price_per_gallon": 5.58,
@@ -79,13 +86,6 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-gallon price"
-    },
-    {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published homepage cash price"
     },
     {
       "name": "Curtiss Oil",
