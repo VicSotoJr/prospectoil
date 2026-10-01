@@ -1,14 +1,14 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-01T05:40:47.401653+00:00",
+  "updated_at": "2026-10-01T13:03:25.332259+00:00",
   "sources": [
     {
-      "name": "Easy Oil CT",
-      "url": "https://www.easyoilct.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "Published 100-gallon minimum homepage price"
+      "name": "Dime Oil",
+      "url": "https://www.dimeoilco.com/",
+      "price_per_gallon": 5.559,
+      "total_for_100_gallons": 555.9,
+      "note": "Published 150+ gallon homepage price"
     },
     {
       "name": "Anytime Oil",
@@ -39,6 +39,13 @@
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
+      "name": "Easy Oil CT",
+      "url": "https://www.easyoilct.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published 100-gallon minimum homepage price"
+    },
+    {
       "name": "GG Oil CT",
       "url": "https://ggoilct.com/get-price/",
       "price_per_gallon": 5.59,
@@ -58,13 +65,6 @@
       "price_per_gallon": 5.65,
       "total_for_100_gallons": 565.0,
       "note": "Published homepage price; 100-gallon minimum"
-    },
-    {
-      "name": "Dime Oil",
-      "url": "https://www.dimeoilco.com/",
-      "price_per_gallon": 5.689,
-      "total_for_100_gallons": 568.9,
-      "note": "Published 150+ gallon homepage price"
     },
     {
       "name": "Phillips Oil & Propane",
@@ -88,18 +88,18 @@
       "note": "Published per-gallon homepage price"
     },
     {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.69,
+      "total_for_100_gallons": 569.0,
+      "note": "Published homepage cash price"
+    },
+    {
       "name": "Purple Fuels",
       "url": "https://www.purplefuels.com/heating-oil/pricing",
       "price_per_gallon": 5.78,
       "total_for_100_gallons": 578.0,
       "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.89,
-      "total_for_100_gallons": 589.0,
-      "note": "Published homepage cash price"
     },
     {
       "name": "Curtiss Oil",
