@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-05T05:26:43.469505+00:00",
+  "updated_at": "2026-10-05T14:27:02.295389+00:00",
   "sources": [
     {
       "name": "Dime Oil",
@@ -9,6 +9,13 @@
       "price_per_gallon": 5.299,
       "total_for_100_gallons": 529.9,
       "note": "Published 150+ gallon homepage price"
+    },
+    {
+      "name": "Purple Fuels",
+      "url": "https://www.purplefuels.com/heating-oil/pricing",
+      "price_per_gallon": 5.38,
+      "total_for_100_gallons": 538.0,
+      "note": "Published 100-299 gallon price"
     },
     {
       "name": "First Fuel Oil",
@@ -53,6 +60,13 @@
       "note": "Published 100-gallon price"
     },
     {
+      "name": "Right Energy",
+      "url": "https://www.rightenergyct.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-149 gallon price"
+    },
+    {
       "name": "Bethany Fuel",
       "url": "https://www.bethanyfuel.com/",
       "price_per_gallon": 5.49,
@@ -60,39 +74,11 @@
       "note": "Published 100-299 gallon homepage price"
     },
     {
-      "name": "Purple Fuels",
-      "url": "https://www.purplefuels.com/heating-oil/pricing",
-      "price_per_gallon": 5.58,
-      "total_for_100_gallons": 558.0,
-      "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Right Energy",
-      "url": "https://www.rightenergyct.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published homepage cash price"
-    },
-    {
-      "name": "Incredible Oil & Propane",
-      "url": "https://www.incredibleoil.com/home-heating-oil/",
-      "price_per_gallon": 5.64,
-      "total_for_100_gallons": 564.0,
-      "note": "Published 100-299 gallon price"
     },
     {
       "name": "IT Energy",
@@ -107,6 +93,20 @@
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
       "note": "Published per-gallon homepage price"
+    },
+    {
+      "name": "Incredible Oil & Propane",
+      "url": "https://www.incredibleoil.com/home-heating-oil/",
+      "price_per_gallon": null,
+      "total_for_100_gallons": null,
+      "note": "Update failed: RuntimeError: Could not find Incredible Oil price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": null,
+      "total_for_100_gallons": null,
+      "note": "Update failed: RuntimeError: Could not find Federal Oil cash price"
     }
   ]
 }
