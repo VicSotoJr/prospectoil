@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-05T14:27:02.295389+00:00",
+  "updated_at": "2026-10-06T00:01:11.164925+00:00",
   "sources": [
     {
       "name": "Dime Oil",
@@ -37,6 +37,13 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published homepage cash price"
     },
     {
       "name": "Curtiss Oil",
@@ -81,6 +88,13 @@
       "note": "Published 100-gallon minimum homepage price"
     },
     {
+      "name": "Incredible Oil & Propane",
+      "url": "https://www.incredibleoil.com/home-heating-oil/",
+      "price_per_gallon": 5.64,
+      "total_for_100_gallons": 564.0,
+      "note": "Published 100-299 gallon price"
+    },
+    {
       "name": "IT Energy",
       "url": "https://itenergyllc.com/",
       "price_per_gallon": 5.65,
@@ -93,20 +107,6 @@
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
       "note": "Published per-gallon homepage price"
-    },
-    {
-      "name": "Incredible Oil & Propane",
-      "url": "https://www.incredibleoil.com/home-heating-oil/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: RuntimeError: Could not find Incredible Oil price"
-    },
-    {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: RuntimeError: Could not find Federal Oil cash price"
     }
   ]
 }
