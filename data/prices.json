@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-09T13:08:16.031721+00:00",
+  "updated_at": "2026-10-09T22:35:44.968957+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -25,13 +25,6 @@
       "note": "Published 100-299 gallon price"
     },
     {
-      "name": "Dime Oil",
-      "url": "https://www.dimeoilco.com/",
-      "price_per_gallon": 5.559,
-      "total_for_100_gallons": 555.9,
-      "note": "Published 150+ gallon homepage price"
-    },
-    {
       "name": "Phillips Oil & Propane",
       "url": "https://phillipsoilllc.com/",
       "price_per_gallon": 5.59,
@@ -51,6 +44,13 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "ZIP-specific 100-149 gallon price"
+    },
+    {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published 100-299 gallon homepage price"
     },
     {
       "name": "FJ Boil",
@@ -95,18 +95,18 @@
       "note": "ZIP-specific 100+ gallon price"
     },
     {
+      "name": "Dime Oil",
+      "url": "https://www.dimeoilco.com/",
+      "price_per_gallon": 5.659,
+      "total_for_100_gallons": 565.9,
+      "note": "Published 150+ gallon homepage price"
+    },
+    {
       "name": "Omni Energy",
       "url": "https://myomnienergy.com/",
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
       "note": "Published per-gallon homepage price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: HTTPError: 403 Client Error: Forbidden for url: https://www.bethanyfuel.com/"
     }
   ]
 }
