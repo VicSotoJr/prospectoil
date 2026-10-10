@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-10T12:23:45.339057+00:00",
+  "updated_at": "2026-10-10T21:34:59.453225+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -23,6 +23,27 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "Published per-gallon homepage price"
     },
     {
       "name": "Phillips Oil & Propane",
@@ -53,25 +74,11 @@
       "note": "Published 100-299 gallon homepage price"
     },
     {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "IT Energy",
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.659,
       "total_for_100_gallons": 565.9,
       "note": "Published 150+ gallon homepage price"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published per-gallon homepage price"
     }
   ]
 }
