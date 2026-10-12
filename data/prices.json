@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-12T05:47:07.894937+00:00",
+  "updated_at": "2026-10-12T15:13:51.738564+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -74,6 +74,13 @@
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published 100-299 gallon homepage price"
+    },
+    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 5.59,
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.659,
       "total_for_100_gallons": 565.9,
       "note": "Published 150+ gallon homepage price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: HTTPError: 403 Client Error: Forbidden for url: https://www.bethanyfuel.com/"
     }
   ]
 }
