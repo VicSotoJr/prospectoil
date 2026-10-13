@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-12T15:13:51.738564+00:00",
+  "updated_at": "2026-10-13T00:34:33.742730+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -67,13 +67,6 @@
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
-      "name": "Right Energy",
-      "url": "https://www.rightenergyct.com/get-price/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
       "name": "Bethany Fuel",
       "url": "https://www.bethanyfuel.com/",
       "price_per_gallon": 5.59,
@@ -107,6 +100,13 @@
       "price_per_gallon": 5.659,
       "total_for_100_gallons": 565.9,
       "note": "Published 150+ gallon homepage price"
+    },
+    {
+      "name": "Right Energy",
+      "url": "https://www.rightenergyct.com/get-price/",
+      "price_per_gallon": null,
+      "total_for_100_gallons": null,
+      "note": "Right Energy quote failed: TimeoutError: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input\").nth(7)\n    - locator resolved to <input type=\"hidden\" name=\"reset_zip\" value=\"reset_zip\"/>\n    - fill(\"06712\")\n  - attempting fill action\n    2 \u00d7 waiting for element t"
     }
   ]
 }
