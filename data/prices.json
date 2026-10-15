@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-15T11:20:38.924967+00:00",
+  "updated_at": "2026-10-15T16:52:16.350843+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -9,6 +9,13 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published homepage cash price"
     },
     {
       "name": "Incredible Oil & Propane",
@@ -30,13 +37,6 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "Published homepage cash price"
     },
     {
       "name": "Purple Fuels",
