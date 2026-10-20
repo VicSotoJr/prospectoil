@@ -1,13 +1,13 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-20T04:39:59.843137+00:00",
+  "updated_at": "2026-10-20T11:25:50.230105+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
       "url": "https://www.firstfueloil.com/",
-      "price_per_gallon": 5.39,
-      "total_for_100_gallons": 539.0,
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
       "note": "Published 100-299 gallon price"
     },
     {
@@ -20,15 +20,15 @@
     {
       "name": "FJ Boil",
       "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
+      "price_per_gallon": 5.54,
+      "total_for_100_gallons": 554.0,
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "GG Oil CT",
       "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
+      "price_per_gallon": 5.54,
+      "total_for_100_gallons": 554.0,
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
