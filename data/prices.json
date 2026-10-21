@@ -1,8 +1,15 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-21T11:41:15.078821+00:00",
+  "updated_at": "2026-10-21T17:06:50.672364+00:00",
   "sources": [
+    {
+      "name": "First Fuel Oil",
+      "url": "https://www.firstfueloil.com/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "Published 100-299 gallon price"
+    },
     {
       "name": "Incredible Oil & Propane",
       "url": "https://www.incredibleoil.com/home-heating-oil/",
@@ -13,15 +20,15 @@
     {
       "name": "FJ Boil",
       "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.54,
-      "total_for_100_gallons": 554.0,
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "GG Oil CT",
       "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.54,
-      "total_for_100_gallons": 554.0,
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
@@ -83,8 +90,8 @@
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
       "note": "Published homepage cash price"
     },
     {
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.699,
       "total_for_100_gallons": 569.9,
       "note": "Published 150+ gallon homepage price"
-    },
-    {
-      "name": "First Fuel Oil",
-      "url": "https://www.firstfueloil.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: ConnectTimeout: HTTPSConnectionPool(host='www.firstfueloil.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.firstfueloil.com', port=443) at 0x7f2c27abe210>, 'Connection to www.firstfueloil.com timed out. (co"
     }
   ]
 }
