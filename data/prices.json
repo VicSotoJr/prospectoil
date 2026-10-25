@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-25T11:15:55.614899+00:00",
+  "updated_at": "2026-10-25T16:03:20.844115+00:00",
   "sources": [
     {
       "name": "Purple Fuels",
@@ -39,13 +39,6 @@
       "note": "ZIP-specific 100-299 gallon price"
     },
     {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "Published homepage cash price"
-    },
-    {
       "name": "Anytime Oil",
       "url": "https://anytime-oil.com/get-price/",
       "price_per_gallon": 5.54,
@@ -65,6 +58,13 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "ZIP-specific 100-149 gallon price"
+    },
+    {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published 100-299 gallon homepage price"
     },
     {
       "name": "Easy Oil CT",
@@ -88,6 +88,13 @@
       "note": "Published homepage price; 100-gallon minimum"
     },
     {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published homepage cash price"
+    },
+    {
       "name": "Dime Oil",
       "url": "https://www.dimeoilco.com/",
       "price_per_gallon": 5.629,
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.699,
       "total_for_100_gallons": 569.9,
       "note": "ZIP-specific 100+ gallon price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": null,
-      "total_for_100_gallons": null,
-      "note": "Update failed: HTTPError: 403 Client Error: Forbidden for url: https://www.bethanyfuel.com/"
     }
   ]
 }
