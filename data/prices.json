@@ -1,8 +1,22 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-27T04:52:45.685659+00:00",
+  "updated_at": "2026-10-27T12:02:16.928475+00:00",
   "sources": [
+    {
+      "name": "First Fuel Oil",
+      "url": "https://www.firstfueloil.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Curtiss Oil",
+      "url": "https://curtissoil.com/get-price/",
+      "price_per_gallon": 5.399,
+      "total_for_100_gallons": 539.9,
+      "note": "ZIP-specific 100+ gallon price"
+    },
     {
       "name": "Purple Fuels",
       "url": "https://www.purplefuels.com/heating-oil/pricing",
@@ -11,18 +25,18 @@
       "note": "Published 100-299 gallon price"
     },
     {
-      "name": "First Fuel Oil",
-      "url": "https://www.firstfueloil.com/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "Published 100-299 gallon price"
-    },
-    {
       "name": "Incredible Oil & Propane",
       "url": "https://www.incredibleoil.com/home-heating-oil/",
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
+      "price_per_gallon": 5.49,
+      "total_for_100_gallons": 549.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "FJ Boil",
@@ -44,13 +58,6 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "Published homepage cash price"
-    },
-    {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 5.54,
-      "total_for_100_gallons": 554.0,
-      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Phillips Oil & Propane",
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.69,
       "total_for_100_gallons": 569.0,
       "note": "Published per-gallon homepage price"
-    },
-    {
-      "name": "Curtiss Oil",
-      "url": "https://curtissoil.com/get-price/",
-      "price_per_gallon": 5.699,
-      "total_for_100_gallons": 569.9,
-      "note": "ZIP-specific 100+ gallon price"
     }
   ]
 }
