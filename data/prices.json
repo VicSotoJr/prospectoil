@@ -1,8 +1,15 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-27T12:02:16.928475+00:00",
+  "updated_at": "2026-10-27T22:08:01.405648+00:00",
   "sources": [
+    {
+      "name": "Purple Fuels",
+      "url": "https://www.purplefuels.com/heating-oil/pricing",
+      "price_per_gallon": 5.38,
+      "total_for_100_gallons": 538.0,
+      "note": "Published 100-299 gallon price"
+    },
     {
       "name": "First Fuel Oil",
       "url": "https://www.firstfueloil.com/",
@@ -11,18 +18,25 @@
       "note": "Published 100-299 gallon price"
     },
     {
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
       "name": "Curtiss Oil",
       "url": "https://curtissoil.com/get-price/",
       "price_per_gallon": 5.399,
       "total_for_100_gallons": 539.9,
       "note": "ZIP-specific 100+ gallon price"
-    },
-    {
-      "name": "Purple Fuels",
-      "url": "https://www.purplefuels.com/heating-oil/pricing",
-      "price_per_gallon": 5.48,
-      "total_for_100_gallons": 548.0,
-      "note": "Published 100-299 gallon price"
     },
     {
       "name": "Incredible Oil & Propane",
@@ -37,20 +51,6 @@
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Federal Oil",
@@ -88,6 +88,13 @@
       "note": "Published 100-gallon minimum homepage price"
     },
     {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 5.59,
+      "total_for_100_gallons": 559.0,
+      "note": "Published per-gallon homepage price"
+    },
+    {
       "name": "IT Energy",
       "url": "https://itenergyllc.com/",
       "price_per_gallon": 5.59,
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.629,
       "total_for_100_gallons": 562.9,
       "note": "Published 150+ gallon homepage price"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 5.69,
-      "total_for_100_gallons": 569.0,
-      "note": "Published per-gallon homepage price"
     }
   ]
 }
