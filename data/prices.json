@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-10-29T12:51:34.959105+00:00",
+  "updated_at": "2026-10-29T22:42:58.439654+00:00",
   "sources": [
     {
       "name": "First Fuel Oil",
@@ -25,6 +25,13 @@
       "note": "Published 100-299 gallon price"
     },
     {
+      "name": "Phillips Oil & Propane",
+      "url": "https://phillipsoilllc.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published 100-gallon price"
+    },
+    {
       "name": "Incredible Oil & Propane",
       "url": "https://www.incredibleoil.com/home-heating-oil/",
       "price_per_gallon": 5.39,
@@ -37,6 +44,13 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "Easy Oil CT",
+      "url": "https://www.easyoilct.com/",
+      "price_per_gallon": 5.39,
+      "total_for_100_gallons": 539.0,
+      "note": "Published 100-gallon minimum homepage price"
     },
     {
       "name": "GG Oil CT",
@@ -81,18 +95,11 @@
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
-      "name": "Easy Oil CT",
-      "url": "https://www.easyoilct.com/",
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
       "price_per_gallon": 5.49,
       "total_for_100_gallons": 549.0,
-      "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "Phillips Oil & Propane",
-      "url": "https://phillipsoilllc.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published 100-gallon price"
+      "note": "Published 100-299 gallon homepage price"
     },
     {
       "name": "Right Energy",
@@ -100,13 +107,6 @@
       "price_per_gallon": 5.59,
       "total_for_100_gallons": 559.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": 5.59,
-      "total_for_100_gallons": 559.0,
-      "note": "Published 100-299 gallon homepage price"
     }
   ]
 }
