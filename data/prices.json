@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-01T05:52:08.773183+00:00",
+  "updated_at": "2026-11-01T13:12:13.011310+00:00",
   "sources": [
     {
       "name": "Purple Fuels",
@@ -37,6 +37,13 @@
       "price_per_gallon": 5.29,
       "total_for_100_gallons": 529.0,
       "note": "Published homepage cash price"
+    },
+    {
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
+      "price_per_gallon": 5.35,
+      "total_for_100_gallons": 535.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "IT Energy",
@@ -86,13 +93,6 @@
       "price_per_gallon": 5.399,
       "total_for_100_gallons": 539.9,
       "note": "ZIP-specific 100+ gallon price"
-    },
-    {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 5.49,
-      "total_for_100_gallons": 549.0,
-      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Easy Oil CT",
