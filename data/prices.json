@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-04T06:03:21.616253+00:00",
+  "updated_at": "2026-11-04T14:21:37.284085+00:00",
   "sources": [
     {
       "name": "Federal Oil",
@@ -23,6 +23,13 @@
       "price_per_gallon": 5.19,
       "total_for_100_gallons": 519.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 5.23,
+      "total_for_100_gallons": 523.0,
+      "note": "Published per-gallon homepage price"
     },
     {
       "name": "Anytime Oil",
@@ -93,13 +100,6 @@
       "price_per_gallon": 5.39,
       "total_for_100_gallons": 539.0,
       "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 5.39,
-      "total_for_100_gallons": 539.0,
-      "note": "Published per-gallon homepage price"
     },
     {
       "name": "Curtiss Oil",
