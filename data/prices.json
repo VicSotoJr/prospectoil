@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-05T19:53:44.839025+00:00",
+  "updated_at": "2026-11-06T06:24:56.155407+00:00",
   "sources": [
     {
       "name": "IT Energy",
@@ -46,13 +46,6 @@
       "note": "Published per-gallon homepage price"
     },
     {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.99,
-      "total_for_100_gallons": 499.0,
-      "note": "Published homepage cash price"
-    },
-    {
       "name": "Incredible Oil & Propane",
       "url": "https://www.incredibleoil.com/home-heating-oil/",
       "price_per_gallon": 5.09,
@@ -60,10 +53,17 @@
       "note": "Published 100-299 gallon price"
     },
     {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 5.09,
+      "total_for_100_gallons": 509.0,
+      "note": "Published homepage cash price"
+    },
+    {
       "name": "Anytime Oil",
       "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 5.14,
-      "total_for_100_gallons": 514.0,
+      "price_per_gallon": 5.16,
+      "total_for_100_gallons": 516.0,
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
@@ -79,13 +79,6 @@
       "price_per_gallon": 5.19,
       "total_for_100_gallons": 519.0,
       "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "Phillips Oil & Propane",
-      "url": "https://phillipsoilllc.com/",
-      "price_per_gallon": 5.29,
-      "total_for_100_gallons": 529.0,
-      "note": "Published 100-gallon price"
     },
     {
       "name": "Right Energy",
@@ -107,6 +100,13 @@
       "price_per_gallon": 5.559,
       "total_for_100_gallons": 555.9,
       "note": "ZIP-specific 100+ gallon price"
+    },
+    {
+      "name": "Phillips Oil & Propane",
+      "url": "https://phillipsoilllc.com/",
+      "price_per_gallon": null,
+      "total_for_100_gallons": null,
+      "note": "Update failed: RuntimeError: Could not find Phillips 100-gallon price"
     }
   ]
 }
