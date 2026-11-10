@@ -1,13 +1,13 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-10T14:48:44.114337+00:00",
+  "updated_at": "2026-11-10T23:11:50.581606+00:00",
   "sources": [
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.49,
-      "total_for_100_gallons": 449.0,
+      "price_per_gallon": 4.69,
+      "total_for_100_gallons": 469.0,
       "note": "Published homepage cash price"
     },
     {
@@ -23,6 +23,13 @@
       "price_per_gallon": 4.89,
       "total_for_100_gallons": 489.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 4.89,
+      "total_for_100_gallons": 489.0,
+      "note": "Published 100-299 gallon homepage price"
     },
     {
       "name": "FJ Boil",
@@ -44,6 +51,13 @@
       "price_per_gallon": 4.89,
       "total_for_100_gallons": 489.0,
       "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "Omni Energy",
+      "url": "https://myomnienergy.com/",
+      "price_per_gallon": 4.89,
+      "total_for_100_gallons": 489.0,
+      "note": "Published per-gallon homepage price"
     },
     {
       "name": "IT Energy",
@@ -72,20 +86,6 @@
       "price_per_gallon": 4.99,
       "total_for_100_gallons": 499.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": 4.99,
-      "total_for_100_gallons": 499.0,
-      "note": "Published 100-299 gallon homepage price"
-    },
-    {
-      "name": "Omni Energy",
-      "url": "https://myomnienergy.com/",
-      "price_per_gallon": 4.99,
-      "total_for_100_gallons": 499.0,
-      "note": "Published per-gallon homepage price"
     },
     {
       "name": "Dime Oil",
