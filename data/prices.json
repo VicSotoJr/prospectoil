@@ -1,14 +1,21 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-11T05:58:51.339992+00:00",
+  "updated_at": "2026-11-12T00:33:05.259109+00:00",
   "sources": [
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.69,
-      "total_for_100_gallons": 469.0,
+      "price_per_gallon": 4.79,
+      "total_for_100_gallons": 479.0,
       "note": "Published homepage cash price"
+    },
+    {
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
+      "price_per_gallon": 4.88,
+      "total_for_100_gallons": 488.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Purple Fuels",
@@ -23,6 +30,20 @@
       "price_per_gallon": 4.89,
       "total_for_100_gallons": 489.0,
       "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Incredible Oil & Propane",
+      "url": "https://www.incredibleoil.com/home-heating-oil/",
+      "price_per_gallon": 4.89,
+      "total_for_100_gallons": 489.0,
+      "note": "Published 100-299 gallon price"
+    },
+    {
+      "name": "Right Energy",
+      "url": "https://www.rightenergyct.com/get-price/",
+      "price_per_gallon": 4.89,
+      "total_for_100_gallons": 489.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Bethany Fuel",
@@ -65,27 +86,6 @@
       "price_per_gallon": 4.91,
       "total_for_100_gallons": 491.0,
       "note": "Published homepage price; 100-gallon minimum"
-    },
-    {
-      "name": "Incredible Oil & Propane",
-      "url": "https://www.incredibleoil.com/home-heating-oil/",
-      "price_per_gallon": 4.94,
-      "total_for_100_gallons": 494.0,
-      "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 4.94,
-      "total_for_100_gallons": 494.0,
-      "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Right Energy",
-      "url": "https://www.rightenergyct.com/get-price/",
-      "price_per_gallon": 4.99,
-      "total_for_100_gallons": 499.0,
-      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Dime Oil",
