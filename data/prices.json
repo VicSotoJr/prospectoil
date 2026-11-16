@@ -1,8 +1,15 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-16T06:11:20.423082+00:00",
+  "updated_at": "2026-11-16T21:57:26.051026+00:00",
   "sources": [
+    {
+      "name": "Federal Oil",
+      "url": "https://federal-oil.com/",
+      "price_per_gallon": 4.59,
+      "total_for_100_gallons": 459.0,
+      "note": "Published homepage cash price"
+    },
     {
       "name": "IT Energy",
       "url": "https://itenergyllc.com/",
@@ -11,11 +18,11 @@
       "note": "Published homepage price; 100-gallon minimum"
     },
     {
-      "name": "Federal Oil",
-      "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.69,
-      "total_for_100_gallons": 469.0,
-      "note": "Published homepage cash price"
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
+      "price_per_gallon": 4.78,
+      "total_for_100_gallons": 478.0,
+      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "Purple Fuels",
@@ -39,11 +46,18 @@
       "note": "Published 100-299 gallon price"
     },
     {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 4.88,
-      "total_for_100_gallons": 488.0,
-      "note": "ZIP-specific 100-149 gallon price"
+      "name": "FJ Boil",
+      "url": "https://www.fjboil.com/get-price/",
+      "price_per_gallon": 4.79,
+      "total_for_100_gallons": 479.0,
+      "note": "ZIP-specific 100-299 gallon price"
+    },
+    {
+      "name": "GG Oil CT",
+      "url": "https://ggoilct.com/get-price/",
+      "price_per_gallon": 4.79,
+      "total_for_100_gallons": 479.0,
+      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Right Energy",
@@ -60,25 +74,11 @@
       "note": "Published 100-299 gallon homepage price"
     },
     {
-      "name": "FJ Boil",
-      "url": "https://www.fjboil.com/get-price/",
-      "price_per_gallon": 4.89,
-      "total_for_100_gallons": 489.0,
-      "note": "ZIP-specific 100-299 gallon price"
-    },
-    {
       "name": "Easy Oil CT",
       "url": "https://www.easyoilct.com/",
       "price_per_gallon": 4.89,
       "total_for_100_gallons": 489.0,
       "note": "Published 100-gallon minimum homepage price"
-    },
-    {
-      "name": "GG Oil CT",
-      "url": "https://ggoilct.com/get-price/",
-      "price_per_gallon": 4.89,
-      "total_for_100_gallons": 489.0,
-      "note": "ZIP-specific 100-299 gallon price"
     },
     {
       "name": "Omni Energy",
