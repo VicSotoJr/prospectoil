@@ -1,13 +1,13 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-16T21:57:26.051026+00:00",
+  "updated_at": "2026-11-17T07:46:12.756016+00:00",
   "sources": [
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.59,
-      "total_for_100_gallons": 459.0,
+      "price_per_gallon": 4.49,
+      "total_for_100_gallons": 449.0,
       "note": "Published homepage cash price"
     },
     {
