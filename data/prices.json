@@ -1,7 +1,7 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-17T20:48:14.824533+00:00",
+  "updated_at": "2026-11-18T07:11:32.429317+00:00",
   "sources": [
     {
       "name": "Federal Oil",
@@ -60,6 +60,13 @@
       "note": "ZIP-specific 100-149 gallon price"
     },
     {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 4.79,
+      "total_for_100_gallons": 479.0,
+      "note": "Published 100-299 gallon homepage price"
+    },
+    {
       "name": "FJ Boil",
       "url": "https://www.fjboil.com/get-price/",
       "price_per_gallon": 4.79,
@@ -86,13 +93,6 @@
       "price_per_gallon": 4.89,
       "total_for_100_gallons": 489.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": 4.89,
-      "total_for_100_gallons": 489.0,
-      "note": "Published 100-299 gallon homepage price"
     },
     {
       "name": "Curtiss Oil",
