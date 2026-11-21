@@ -1,13 +1,13 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-20T20:00:52.588719+00:00",
+  "updated_at": "2026-11-21T06:56:50.652007+00:00",
   "sources": [
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.39,
-      "total_for_100_gallons": 439.0,
+      "price_per_gallon": 4.29,
+      "total_for_100_gallons": 429.0,
       "note": "Published homepage cash price"
     },
     {
@@ -32,6 +32,13 @@
       "note": "Published 100-299 gallon price"
     },
     {
+      "name": "Bethany Fuel",
+      "url": "https://www.bethanyfuel.com/",
+      "price_per_gallon": 4.59,
+      "total_for_100_gallons": 459.0,
+      "note": "Published 100-299 gallon homepage price"
+    },
+    {
       "name": "Omni Energy",
       "url": "https://myomnienergy.com/",
       "price_per_gallon": 4.59,
@@ -51,13 +58,6 @@
       "price_per_gallon": 4.69,
       "total_for_100_gallons": 469.0,
       "note": "ZIP-specific 100-149 gallon price"
-    },
-    {
-      "name": "Bethany Fuel",
-      "url": "https://www.bethanyfuel.com/",
-      "price_per_gallon": 4.69,
-      "total_for_100_gallons": 469.0,
-      "note": "Published 100-299 gallon homepage price"
     },
     {
       "name": "FJ Boil",
