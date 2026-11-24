@@ -1,13 +1,13 @@
 {
   "zip": "06712",
   "gallons": 100,
-  "updated_at": "2026-11-23T23:48:25.811230+00:00",
+  "updated_at": "2026-11-24T09:44:11.828074+00:00",
   "sources": [
     {
       "name": "Federal Oil",
       "url": "https://federal-oil.com/",
-      "price_per_gallon": 4.19,
-      "total_for_100_gallons": 419.0,
+      "price_per_gallon": 4.09,
+      "total_for_100_gallons": 409.0,
       "note": "Published homepage cash price"
     },
     {
@@ -23,13 +23,6 @@
       "price_per_gallon": 4.39,
       "total_for_100_gallons": 439.0,
       "note": "Published 100-299 gallon price"
-    },
-    {
-      "name": "Anytime Oil",
-      "url": "https://anytime-oil.com/get-price/",
-      "price_per_gallon": 4.39,
-      "total_for_100_gallons": 439.0,
-      "note": "ZIP-specific 100-149 gallon price"
     },
     {
       "name": "FJ Boil",
@@ -107,6 +100,13 @@
       "price_per_gallon": null,
       "total_for_100_gallons": null,
       "note": "Update failed: RuntimeError: Could not find Phillips 100-gallon price"
+    },
+    {
+      "name": "Anytime Oil",
+      "url": "https://anytime-oil.com/get-price/",
+      "price_per_gallon": null,
+      "total_for_100_gallons": null,
+      "note": "Anytime Oil quote failed: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://anytime-oil.com/get-price/\nCall log:\n  - navigating to \"https://anytime-oil.com/get-price/\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }
